@@ -6,7 +6,7 @@ public class TestMain {
 
 		System.out.println("Welcome to bnt!!!!!");
 		System.out.println("Welcome to bnt!!!!!");
-		System.out.println("Welcome to bnt2!!!!!");
+		System.out.println("Welcome to bnt_Conflict!!!!!");
 	}
 
 }
